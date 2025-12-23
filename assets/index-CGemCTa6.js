@@ -19,7 +19,7 @@ with expert care`}),ae.jsx("p",{className:`\r
               max-w-[90%] sm:max-w-xl\r
               leading-relaxed\r
               font-bold\r
-            `,style:{textShadow:"0 2px 10px rgba(0,0,0,0.35)"},children:"Far away, beyond the bustling streets of the city, in a place where elegance meets care, there awaits a world of beauty and artistry."}),ae.jsxs("div",{className:"flex flex-col min-[360px]:flex-row gap-3 sm:gap-5 mt-6 w-full justify-center",children:[ae.jsxs(sl.Link,{to:"SERVICES",smooth:!0,duration:500,className:`\r
+            `,style:{textShadow:"0 2px 10px rgba(0,0,0,0.35)"},children:"Far away, beyond the bustling streets of the city, in a place where elegance meets care, there awaits a world of beauty and artistry."}),ae.jsxs("div",{className:"flex flex-col min-[460px]:flex-row gap-3 sm:gap-5 mt-6 w-full justify-center",children:[ae.jsxs(sl.Link,{to:"SERVICES",smooth:!0,duration:500,className:`\r
                 cursor-pointer\r
                 group relative\r
                 px-7 sm:px-9 py-2.5 sm:py-3\r
